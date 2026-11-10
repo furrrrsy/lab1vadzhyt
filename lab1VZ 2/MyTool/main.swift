@@ -17,7 +17,6 @@
     //  return (sum, difference, product, quotient)
     //}
 
-// Pobieranie danych
 //print("Podaj pierwszą liczbę:")
 //let first = Double(readLine() ?? "") ?? 0
 
